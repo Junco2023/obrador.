@@ -12,5 +12,7 @@ public class obradorGit {
     String nombre = "Pepe";
     public void Saludar(){
         System.out.println("Hola soy "+nombre);
+        System.out.println("Hola soy "+nombre);
+        System.out.println("Hola soy "+nombre);
     }
 }
