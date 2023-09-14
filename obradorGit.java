@@ -16,5 +16,8 @@ public class obradorGit {
 
                 System.out.println("Hola soy "+nombre);
 
+        String apellido = "G";
+        System.out.println("Apellido");
+
     }
 }
